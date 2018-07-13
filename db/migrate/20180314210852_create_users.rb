@@ -1,7 +1,7 @@
-class CreateUsers < ActiveRecord::Migration[5.1]
+class CreateUsers < ActiveRecord::Migration
   def up
   end
-  
+
   def down
   end
 end
